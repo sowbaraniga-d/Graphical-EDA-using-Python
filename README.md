@@ -24,4 +24,4 @@ The dataset is an Excel file containing vendor code, plant location, type, inven
 
 The motor sales analysis offers a rich visual perspective on historical data, identifying patterns and anomalies that can guide strategic business decisions and future growth.
 ## IMPORTANT NOTE 
-   - The attached Jupyter Notebook (or PDF) contains both Python code and the resulting visualisations. Users can see how the analysis was performed step by step, along with the charts and insights generated from the data.
+   - The attached Jupyter Notebook contains both Python code and the resulting visualisations. Users can see how the analysis was performed step by step, along with the charts and insights generated from the data.
